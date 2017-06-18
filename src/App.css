@@ -1,0 +1,30 @@
+.App {
+    margin: 5%;
+}
+
+.App-title{
+    color: gray;
+    font-size: 13px;
+    margin: 10px 0px;
+}
+
+.SubmitButton {
+    margin: 0px 10px;
+}
+
+.InputForm {
+    display: flex;
+    align-items: baseline;
+    margin: 10px;
+}
+
+.Display {
+    display: flex;
+}
+
+.InputFormControl {
+    font-size: 13px;
+    width: 65px;
+    height: 25px;
+    margin: 5px;
+}
